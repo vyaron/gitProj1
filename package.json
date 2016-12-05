@@ -1,0 +1,22 @@
+{
+  "name": "git-proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getRandomNum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyaron/gitProj1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyaron/gitProj1/issues"
+  },
+  "homepage": "https://github.com/vyaron/gitProj1#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
